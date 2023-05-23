@@ -13,7 +13,7 @@ This application requires Node.JS to be installed. The user should then run ```n
 
 To begin, run the following command in the terminal to invoke the application.
 
-```node index.js```
+```node server.js```
 
 ## Credits
 
