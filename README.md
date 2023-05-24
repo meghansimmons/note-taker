@@ -8,7 +8,12 @@ The Note Taker application allows the user to keep track of tasks. Notes can be 
 [https://note-taker-gatech.herokuapp.com/](https://note-taker-gatech.herokuapp.com/)
 
 
-The following screenshots of the application demonstrate the functionality of the Note Taker application.
+The following screenshots are of different views of the Note Taker application.
+<img width="546" alt="NoteTaker - A" src="https://github.com/meghansimmons/note-taker/assets/128755783/6b0c56bf-b2d6-48be-86ad-01b68cdb9b6a">
+
+<img width="546" alt="NoteTaker - B" src="https://github.com/meghansimmons/note-taker/assets/128755783/d5573060-bb88-44b3-9e0e-1fffbaeb9b2e">
+
+<img width="546" alt="NoteTaker - C" src="https://github.com/meghansimmons/note-taker/assets/128755783/4bf5e208-9386-4686-bde1-d76795ffbd2d">
 
 ## Installation
 
@@ -26,7 +31,7 @@ Either open a browser or navigate to the application via the url above. The land
 
 Starter code was supplied for the front end of the Note Taker application. 
 
-The bootcamp Unit 11 Express Mini Project was referenced to assist in building the server and routes.
+The Unit 11 Express Mini Project was referenced to assist in building the server and routes.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
